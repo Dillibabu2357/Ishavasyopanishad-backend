@@ -5,7 +5,7 @@
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Samskriti-Foundation/upanishads-backend
+   git clone https://github.com/Dillibabu2357/Ishavasyopanishad-backend.git
    ```
 
 2. **Navigate to the project directory:**
